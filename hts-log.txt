@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 16 May 2021 22:05:20 at https://magicecraft7.webnode.hu/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://magicecraft7.webnode.hu/ -O1 "D:\hack2\mg\mg" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:06:07	Error: 	"Not Found" (404) at link https://magicecraft7.webnode.hu/wnd_header.set/ (from https://magicecraft7.webnode.hu/)
+22:06:07	Warning: 	Moved Permanently for https://magicecraft7.webnode.hu/home/
+22:06:07	Warning: 	File has moved from https://magicecraft7.webnode.hu/home/ to https://magicecraft7.webnode.hu
+22:06:15	Error: 	"Not Found" (404) at link https://magicecraft7.webnode.hu/a-park/wnd_header.set/ (from https://magicecraft7.webnode.hu/a-park/)
+22:06:15	Error: 	"Not Found" (404) at link https://magicecraft7.webnode.hu/tura-tippek/wnd_header.set/ (from https://magicecraft7.webnode.hu/tura-tippek/)
+22:06:15	Error: 	"Not Found" (404) at link https://magicecraft7.webnode.hu/fotogaleria/wnd_header.set/ (from https://magicecraft7.webnode.hu/fotogaleria/)
+22:06:15	Error: 	"Not Found" (404) at link https://magicecraft7.webnode.hu/kapcsolat/wnd_header.set/ (from https://magicecraft7.webnode.hu/kapcsolat/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 55 seconds : 167 links scanned, 159 files written (21045964 bytes overall) [15356892 bytes received at 279216 bytes/sec], 10573490 bytes transferred using HTTP compression in 61 files, ratio 44%, 9.0 requests per connection
+(5 errors, 2 warnings, 0 messages)

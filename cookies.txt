@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+magicecraft7.webnode.hu	TRUE	/	FALSE	1999999999	PHPSESSID	7da217ff1b4feb1248ffe85bd284dc54
+

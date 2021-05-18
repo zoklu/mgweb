@@ -1,0 +1,52 @@
+.doboz {
+	border: 1px solid black;
+	height: 50px;
+	width: 100px;
+	text-align: center;
+	line-height: 50px;
+}
+
+
+
+#d1 {
+ background-color: red;
+ border: 1px solid black;
+ height: 5%;
+ width: 5%;
+ background-color: rgb(192, 192, 192);
+ position: fixed;
+ margin-top: 13%;
+ border-radius: 100%;
+}
+
+#d2 {
+    background-color: rgb(25, 0, 255);
+    border: 1px solid black;
+    height: 5%;
+    width: 2.5%;
+    background-color: rgb(192, 192, 192);
+    position: fixed;
+    margin-top: 10%;
+    border-radius: 100%;
+}
+
+#d3 {
+    background-color: rgb(0, 255, 98);
+    border: 1px solid black;
+    height: 5%;
+    width: 5%;
+    background-color: rgb(192, 192, 192);
+    position: fixed;
+    margin-top: 7%;
+    border-radius: 100%;
+}
+
+
+
+
+
+
+
+
+
+
